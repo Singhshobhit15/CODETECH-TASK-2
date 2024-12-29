@@ -10,3 +10,4 @@ Overview of the Project
 
 Project: Student Grade Tracker
 Obejective: Gain a numbers and return a grade and percentage of the student
+![Screenshot (321)](https://github.com/user-attachments/assets/1874c2b6-df38-4b70-b440-49a71bb59592)
